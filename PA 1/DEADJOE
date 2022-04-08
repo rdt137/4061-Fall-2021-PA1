@@ -1,0 +1,27 @@
+
+*** These modified files were found in JOE when it aborted on Sat Oct  2 17:28:32 2021
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/mahaj068/Downloads/CSCI 4061/Programming Assignments/PA 1/4061-Fall-2021/.git/COMMIT_EDITMSG
+
+*** File '/home/mahaj068/Downloads/CSCI 4061/Programming Assignments/PA 1/4061-Fall-2021/.git/COMMIT_EDITMSG'
+clearn
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   childProgram
+#	new file:   lib/myutils.o
+#	new file:   master
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
